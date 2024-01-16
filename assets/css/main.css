@@ -1023,13 +1023,4 @@ a:hover
 
 /* Add this to your existing CSS or create a new CSS file */
 
-.subline {
-    opacity: 0;
-    transform: translateY(20px);
-    transition: opacity 0.8s ease, transform 0.8s ease;
-}
 
-.subline.show {
-    opacity: 1;
-    transform: translateY(0);
-}
