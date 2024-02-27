@@ -1031,3 +1031,34 @@ a:hover
     background-color: #3498db; /* Choose your preferred color */
     margin-top: 10px; /* Adjust the margin as needed */
 }
+
+.list-inline li a{
+	color: #123857;
+	margin-right: 15px;
+}
+
+.list-inline li a:hover {
+	color: #ee2f72;
+}
+
+.fa.fa-3x.fa-angle-double-down {
+	color: #123857;
+	margin-top: 20px;
+}
+
+.fa.fa-3x.fa-angle-double-down:hover {
+	color: #ee2f72;
+}
+
+.intro-text h4 {
+	color: #ee2f72;
+	font-size: 1.75rem;
+	letter-spacing: 1px;
+	margin-bottom: 20px;
+}
+
+.intro-text h1 {
+	letter-spacing: 10px;
+	font-size: 5rem;
+  margin-top: 30px;
+}
